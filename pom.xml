@@ -18,7 +18,7 @@
 		<jdk.min.version>1.7</jdk.min.version>
 		<maven.compiler.source>${jdk.min.version}</maven.compiler.source>
 		<maven.compiler.target>${jdk.min.version}</maven.compiler.target>
-		<jackson.version>2.6.2</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<jaxb.version>2.2.5</jaxb.version>
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.10.19</mockito.version>
