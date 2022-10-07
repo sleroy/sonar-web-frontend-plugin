@@ -14,11 +14,11 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<sonar.buildVersion>4.5.5</sonar.buildVersion>
+		<sonar.buildVersion>5.0</sonar.buildVersion>
 		<jdk.min.version>1.7</jdk.min.version>
 		<maven.compiler.source>${jdk.min.version}</maven.compiler.source>
 		<maven.compiler.target>${jdk.min.version}</maven.compiler.target>
-		<jackson.version>2.6.2</jackson.version>
+		<jackson.version>2.13.4</jackson.version>
 		<jaxb.version>2.2.5</jaxb.version>
 		<junit.version>4.12</junit.version>
 		<mockito.version>1.10.19</mockito.version>
